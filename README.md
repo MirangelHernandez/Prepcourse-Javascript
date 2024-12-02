@@ -1,2 +1,1 @@
-# Prepcourse-Javascript
-Repositorio de prueba del módulo 2 del PrepCourse
+Estoy creando un repositorio de prueba y clonarlo desde github a mi computadora.
